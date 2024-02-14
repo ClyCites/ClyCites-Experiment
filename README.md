@@ -9,14 +9,15 @@ Welcome to the ClyCites-Experiment repository! This repository serves as a platf
 To begin experimenting with the machine learning models in this repository, follow these steps:
 
 Clone the Repository: Start by cloning this repository to your local machine:
-git clone https://github.com/ClyCites/ClyCites-Experiment.git
+
+```git clone https://github.com/ClyCites/ClyCites-Experiment.git```
 
 
 # Contributing
 
 Contributions to ClyCites-Experiment are welcome! If you have ideas for improving existing models, adding new features, or fixing bugs, feel free to submit pull requests. Please refer to the contribution guidelines for more details.
 
-#Contact
+# Contact
 If you have any questions, suggestions, or feedback, feel free to reach out to us. You can contact email@example.com.
 
 Happy experimenting with ClyCites-Experiment!
