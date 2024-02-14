@@ -6,11 +6,12 @@ Welcome to the ClyCites-Experiment repository! This repository serves as a platf
 3. Weather Forecasting for Agricultural Regions
 
 # Getting Started
-To begin experimenting with the machine learning models in this repository, follow these steps:
+To begin experimenting with the machine learning models in this repository, follow these step:
 
 Clone the Repository: Start by cloning this repository to your local machine:
 
 ```git clone https://github.com/ClyCites/ClyCites-Experiment.git```
+```cd ClyCites-Experiment```
 
 
 # Contributing
@@ -18,6 +19,6 @@ Clone the Repository: Start by cloning this repository to your local machine:
 Contributions to ClyCites-Experiment are welcome! If you have ideas for improving existing models, adding new features, or fixing bugs, feel free to submit pull requests. Please refer to the contribution guidelines for more details.
 
 # Contact
-If you have any questions, suggestions, or feedback, feel free to reach out to us. You can contact email@example.com.
+If you have any questions, suggestions, or feedback, feel free to reach out to us. You can contact clycites@gmail.com.
 
 Happy experimenting with ClyCites-Experiment!
