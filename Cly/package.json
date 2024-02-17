@@ -9,7 +9,7 @@
     "install-concurrently": "npm install -g concurrently",
     "install-dep": "npm run install-backend && npm run install-frontend",
     "install-all": "npm run install-dep && npm run install-concurrently",
-    "backend": "cd NodeBackend && nodemon app.js",
+    "backend": "cd NodeBackend && node app.js",
     "frontend": "cd ReactWebsite && npm start ",
     "dev": "concurrently \"npm run backend\" \"npm run frontend\""
   },
