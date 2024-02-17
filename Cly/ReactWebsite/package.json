@@ -36,19 +36,7 @@
     "fix": "npm run format && npm run js:fix && npm run test:js",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://cly-serverv1.onrender.com",
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
+  
   "devDependencies": {
     "eslint": "^7.25.0",
     "eslint-config-prettier": "^6.12.0",
