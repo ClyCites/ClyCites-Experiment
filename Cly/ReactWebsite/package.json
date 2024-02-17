@@ -36,7 +36,7 @@
     "fix": "npm run format && npm run js:fix && npm run test:js",
     "eject": "react-scripts eject"
   },
-  "proxy": "http://localhost:5000",
+  "proxy": "https://cly-serverv1.onrender.com",
   "browserslist": {
     "production": [
       ">0.2%",
