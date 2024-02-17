@@ -1,5 +1,5 @@
 {
-  "name": "annadata",
+  "name": "ClyCites",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,6 @@
     "frontend": "cd ReactWebsite && npm start ",
     "dev": "concurrently \"npm run backend\" \"npm run frontend\""
   },
-  "author": "Aman Dwivedi",
+  "author": "Daniel Marvin",
   "license": "MIT"
 }
